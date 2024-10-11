@@ -4,16 +4,14 @@
 
 Small command to show version info.
 
-#### Build
+#### Install 
 
 ---
 
-Clone this repo. and build
+First [Nim lang.](https://nim-lang.org/) installed, then
 
 ```sh
-git clone https://github.com/dinau/gv
-cd gv
-make
+nimble install https://github.com/dinau/gv
 ```
 
 #### Usage
