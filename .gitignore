@@ -1,0 +1,5 @@
+.hg/
+.nimcache*/
+.hg*
+*.exe
+setenv.bat
